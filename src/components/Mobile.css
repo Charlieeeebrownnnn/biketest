@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar1 {
+  display: flex;
+  width: 350px;
+  padding: 15px 15px;
+  justify-content: space-between;
+}
+
+.d {
+  width: 90px;
+}
+.ham {
+  font-size: larger;
+  color: #b5cc22;
+}
+.line {
+  width: 340px;
+  height: 10px;
+  border-top: solid #ebebeb 1px;
+}
+.dot1 {
+  width: 340px;
+  font-family: "Noto Sans CJK TC";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.18em;
+  color: #b5cc22;
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 5px;
+}
+.ppl {
+  display: flex;
+  width: 340px;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.place1 {
+  background: #f6f6f6;
+  border-radius: 8px;
+  align-items: center;
+  padding: 6px 10px;
+  width: 280px;
+  border-color: white;
+  color: #aeaeae;
+}
+.pp2 {
+  display: flex;
+  width: 340px;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+.city1 {
+  background: #f6f6f6;
+  border-radius: 8px;
+  align-items: center;
+  padding: 6px 10px;
+  width: 280px;
+  border-color: white;
+}
+.check {
+  width: 280px;
+  margin-top: 15px;
+  display: flex;
+  margin-left: 30px;
+}
+.check2 {
+  width: 340px;
+  height: 150px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-top: 15px;
+  gap: 1px;
+}
+.block {
+  margin-left: 20px;
+  margin-top: 5px;
+  height: 450px;
+  width: 300px;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 3px;
+}
+.title {
+  display: flex;
+  background: #b5cc22;
+  border-radius: 8px 8px 0px 0px;
+  color: #ffffff;
+  align-items: center;
+}
+.title1 {
+  flex: 1;
+}
+.title2 {
+  flex: 1;
+}
+.title3 {
+  flex: 2;
+}
+
+.con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.con3 {
+  display: flex;
+  justify-content: space-between;
+  background: #f7f7f7;
+  align-items: center;
+}
+.con31 {
+  display: flex;
+  justify-content: space-between;
+  background: #f7f7f7;
+  border-radius: 0px 0px 8px 8px;
+  align-items: center;
+}
+
+.con1 {
+  flex: 1;
+}
+.con12 {
+  flex: 2;
+}

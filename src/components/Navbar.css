@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.container {
+  padding-top: 6px;
+  display: flex;
+  height: 10vh;
+  width: 100%;
+}
+.img1 {
+  padding-left: 124px;
+  padding-top: 3vh;
+}
+ul {
+  font-family: "Noto Sans CJK TC";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #677510;
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  width: 40%;
+  margin-left: 5%;
+  padding-top: 40px;
+}
+li {
+  padding-left: 3%;
+}
+.but {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 18%;
+  padding-top: 3.5%;
+}
+.butt {
+  font-family: "Noto Sans CJK TC";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 10px;
+  line-height: 20px;
+  color: #ffffff;
+  background: #b5cc22;
+  border-radius: 100px;
+  border-color: #b5cc22;
+  border: 0;
+  width:60px;
+
+}
+.butt:hover {
+  cursor: pointer;
+}
+

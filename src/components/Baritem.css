@@ -1,0 +1,43 @@
+.bk {
+  width: 340px;
+  height: 600px;
+  background-color: #b5cc22;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Noto Sans CJK TC";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.18em;
+}
+.bo {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.pos {
+  width: 340px;
+  position: relative;
+}
+.abo {
+  position: absolute;
+  bottom: 160px;
+  left: 30px;
+}
+.jj {
+  width: 70px;
+  text-align: center;
+  color: #b5cc22;
+  background: #ffffff;
+  padding: 13px;
+  border-radius: 100px;
+  border: 0;
+}
+.jj:hover {
+  cursor: pointer;
+}
+.ham:hover {
+  cursor: pointer;
+}
